@@ -1,4 +1,4 @@
-# 🌍 Multimodal Machine Translation System
+# Multimodal Machine Translation System
 
 ## Overview
 This project implements a **Multimodal Machine Translation (MMT)** system that converts **spoken audio** into **translated text** in real-time.  
@@ -8,16 +8,16 @@ The system demonstrates a complete **speech-to-speech translation pipeline**, fo
 
 ---
 
-## 🎯 Key Features
-- 🎙️ **Speech Recognition:** High-accuracy transcription using OpenAI’s Whisper model.  
-- 🌐 **Language Translation:** Transformer-based multilingual translation pipeline.  
-- ⚡ **Real-Time Processing:** Low-latency inference and live output.  
-- 🖥️ **Interactive UI:** Built with Streamlit for audio upload, playback, and translation output.  
-- 🧠 **Automatic Language Detection:** Dynamically identifies input speech language.  
+## Key Features
+- **Speech Recognition:** High-accuracy transcription using OpenAI’s Whisper model.  
+- **Language Translation:** Transformer-based multilingual translation pipeline.  
+- **Real-Time Processing:** Low-latency inference and live output.  
+- **Interactive UI:** Built with Streamlit for audio upload, playback, and translation output.  
+- **Automatic Language Detection:** Dynamically identifies input speech language.  
 
 ---
 
-## 🧩 System Architecture
+## System Architecture
 
              ┌───────────────────────────────────────────┐
              │        Multimodal Translation Flow         │
